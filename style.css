@@ -1,0 +1,25 @@
+body{
+background-size:cover;
+}
+
+
+.header{
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+}
+.note{
+    font-size: 20px;
+    color :black;
+}
+.play{
+    margin-top: 30px;
+    border: rgb(93, 206, 226) solid 4px;
+    font-size: 20px;
+}
+
+canvas{
+    background-color: ("#faebd7");
+    margin-top: 10px;
+    border: rgb(77, 155, 4) solid 5px;
+}
